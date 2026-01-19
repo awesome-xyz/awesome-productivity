@@ -469,7 +469,7 @@ Contributions are **very welcome**. Rules are:
 
 - Neutral descriptions (~140 characters): what it is, who it’s for, why it matters
 
-- Avoid abandoned tools and dead domains
+- Avoid abandoned tools
 
 ---
 
@@ -479,4 +479,4 @@ Contributions are **very welcome**. Rules are:
 
 ---
 
-<p align="center"> <a href="https://cryptobookz.com/a/awesome-xyz"> <img src="https://awesome-xyz.github.io/assets/img/sponsored-by-cryptobookz-1.png" alt="Sponsored by CryptoBookz"> </a> </p>
+[![Sponsored by CryptoBookz](https://awesome-xyz.github.io/assets/img/sponsored-by-cryptobookz-1.png)](https://cryptobookz.com/a/awesome-xyz)
