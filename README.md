@@ -319,6 +319,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Otter](https://otter.ai) – Meeting transcription and summaries for capturing decisions and action items quickly.
 
+- [Screenpipe](https://screenpipe.com) – Local-first computer history that records screen and audio for searchable recall with AI assistants.
+
 ---
 
 ## Documents & Writing
