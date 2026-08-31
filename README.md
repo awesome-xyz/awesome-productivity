@@ -273,6 +273,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Timely](https://timelyapp.com) – Automatic time tracking with memory aids and privacy controls for accurate reporting.
 
+- [OctoWatch DLP](https://octowatchdlp.com/) – Windows EMS + time tracking for teams; timesheets, productivity analytics, Cloud/On-Prem; public REST API.
+
 ---
 
 ## Automation & Integrations
