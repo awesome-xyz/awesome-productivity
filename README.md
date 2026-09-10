@@ -318,6 +318,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 - [Grammarly](https://www.grammarly.com) – Writing assistant for clarity, tone, and correctness across apps and browsers.
 
 - [Otter](https://otter.ai) – Meeting transcription and summaries for capturing decisions and action items quickly.
+- [Orkas](https://orkas.ai/?source=gh_xyzprod) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 
 ---
 
