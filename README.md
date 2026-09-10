@@ -316,6 +316,7 @@ Built to help individuals and teams **do more high-quality work with less fricti
 - [Notion AI](https://www.notion.so/product/ai) – AI inside Notion for drafting, rewriting, summarizing, and database assistance.
 
 - [Grammarly](https://www.grammarly.com) – Writing assistant for clarity, tone, and correctness across apps and browsers.
+- [ResumeAI](https://withresumeai.com/) – Free ATS checker (3/day anonymous, 10/day free account) and AI resume builder; State of ATS 2026.
 
 - [Otter](https://otter.ai) – Meeting transcription and summaries for capturing decisions and action items quickly.
 
