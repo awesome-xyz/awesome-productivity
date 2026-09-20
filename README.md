@@ -334,6 +334,7 @@ Built to help individuals and teams **do more high-quality work with less fricti
 - [Loom](https://www.loom.com) – Async video messaging for quick explanations, walkthroughs, and reduced meeting load.
 
 - [Descript](https://www.descript.com) – Edit audio/video via text for fast communication and content production workflows.
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) – Free browser NDA outline, invoice, SOW, and freelancer document templates (MIT).
 
 ---
 
