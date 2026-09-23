@@ -119,6 +119,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 ## Project Management
 
+- [Orbit by Noveum](https://orbit.noveum.ai) - Free, open-source project management for teams and AI agents, with issues, sprints, collaborative docs and an OAuth MCP endpoint.
+
 - [Notion](https://www.notion.so) – Workspace combining docs, tasks, databases, and wikis for flexible project operating systems.
 
 - [Airtable](https://www.airtable.com) – Spreadsheet-database hybrid for building workflows, trackers, and lightweight apps.
