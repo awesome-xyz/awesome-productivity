@@ -407,6 +407,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Strides](https://www.stridesapp.com) – Goal and habit tracking with flexible goal types and progress visualization.
 
+- [Follower-Wachstum berechnen](https://followerkaufen.ch/tools/follower-growth) – Free German-language calculator for creators’ daily and weekly follower-growth targets, with manual inputs and Swiss number formatting.
+
 - [Coach.me](https://www.coach.me) – Habit tracking with optional coaching for accountability and improvement.
 
 ---
