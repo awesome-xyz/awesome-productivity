@@ -135,6 +135,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [FigJam](https://www.figma.com/figjam) – Lightweight collaborative whiteboard for brainstorming, flows, and team workshops.
 
+- [Tale](https://tale.dev) – Self-hosted workspace for teams to delegate tasks to AI agents and review their reports, shared files, and deliverables.
+
 ---
 
 ## Notes & Knowledge
