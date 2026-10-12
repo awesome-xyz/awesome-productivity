@@ -251,6 +251,10 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Session](https://www.stayinsession.com) – Focus timer with planning prompts and daily structure for consistent execution.
 
+### Break Reminders
+
+- [Awayra](https://awayra.pages.dev/) – Free, open-source Windows app with separate eye-rest and movement-break schedules that works offline.
+
 ### Ambient Focus
 
 - [Brain.fm](https://www.brain.fm) – Science-inspired audio designed to support focus, relaxation, and deep work states.
