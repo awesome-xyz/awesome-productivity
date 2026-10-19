@@ -323,6 +323,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 ## Documents & Writing
 
+- [Glim](https://github.com/NeoPanic/Glim) – Open-source macOS file viewer and basic text editor for reading Markdown with diagrams, PDFs and source files in one workspace.
+
 - [Google Docs](https://docs.google.com) – Collaborative documents with comments, version history, and simple sharing.
 
 - [Microsoft Word](https://www.microsoft.com/microsoft-365/word) – Full-featured document editor with enterprise tooling and templates.
