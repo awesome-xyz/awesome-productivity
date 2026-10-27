@@ -204,6 +204,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 - [Doodle](https://doodle.com) – Group scheduling polls for coordinating meetings across multiple participants.
 
 - [Clockwise](https://www.getclockwise.com) – Intelligent calendar assistant that protects focus time and optimizes meeting schedules.
+  
+- [Paceflow Meeting Scheduler](https://www.paceflow.io/meeting-scheduling-tool-app) – Free group scheduling tool where participants vote on available time slots to find a meeting time.
 
 ---
 
