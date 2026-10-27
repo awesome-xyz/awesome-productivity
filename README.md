@@ -409,6 +409,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Coach.me](https://www.coach.me) – Habit tracking with optional coaching for accountability and improvement.
 
+- [Paceflow Goal Tracker](https://www.paceflow.io/goal-tracker) – Free tool for tracking goals with shareable progress bars and links for updating progress without an account.
+
 ---
 
 ## Methods & Frameworks
