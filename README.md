@@ -243,6 +243,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Focus](https://heyfocus.com) – iOS focus and website blocking tools designed for reducing distraction loops.
 
+- [Ripple](https://ripplefocus.github.io/en/) – Free Android app and short-form video blocker with mandatory cooldown timers and self-healing uninstall protection.
+
 ### Pomodoro & Timers
 
 - [Focus To-Do](https://www.focustodo.cn) – Pomodoro timer plus task management for structured sessions and tracking.
