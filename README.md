@@ -161,6 +161,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Tana](https://tana.inc) – Structured notes with nodes, supertags, and powerful organization for complex knowledge.
 
+- [Eirle Notes](https://eirle.me/) – Free browser notepad for local notes, checklists and sticky notes, with offline use after setup and manual diary backups.
+
 ### Markdown Notes
 
 - [Joplin](https://joplinapp.org) – Open-source notes with Markdown, encryption, sync options, and web clipper.
