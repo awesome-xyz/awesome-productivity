@@ -299,6 +299,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Tasker](https://tasker.joaoapps.com) – Advanced Android automation for triggers, actions, device control, and routines.
 
+- [LatchLayout](https://github.com/stanczykwyatt/latchlayout) – Windows 11 workspace launcher that opens apps, browser profiles, and URLs in saved display layouts on a hold shortcut (preview).
+
 ---
 
 ## AI Assistants
