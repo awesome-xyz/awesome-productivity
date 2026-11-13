@@ -379,6 +379,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Matter](https://hq.getmatter.com) – Read-later app built for newsletters, PDFs, and focused reading workflows.
 
+- [Glasp](https://glasp.co) – Highlighter for web pages, PDFs, and YouTube videos that imports Kindle highlights and exports to Markdown, Notion, Obsidian, and Roam.
+
 ---
 
 ## Password & Security
