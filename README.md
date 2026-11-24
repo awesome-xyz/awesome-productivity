@@ -333,6 +333,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Loom](https://www.loom.com) – Async video messaging for quick explanations, walkthroughs, and reduced meeting load.
 
+- [Vertov](https://vertov.app/) – Browser screen recording for teams, with transcript editing and share links for walkthroughs and feedback.
+
 - [Descript](https://www.descript.com) – Edit audio/video via text for fast communication and content production workflows.
 
 ---
