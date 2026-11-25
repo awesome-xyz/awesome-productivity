@@ -372,7 +372,6 @@ Built to help individuals and teams **do more high-quality work with less fricti
 ## Bookmarks & Read-Later
 
 - [Linger](https://withlinger.com/) – A local Mac app for saving visual references with source links and notes, then finding and arranging them by tag, color, and canvas.
-
 - [Instapaper](https://www.instapaper.com) – Clean read-later service with highlights and distraction-free reading.
 
 - [Raindrop.io](https://raindrop.io) – Bookmark manager with tags, collections, and cross-device sync.
