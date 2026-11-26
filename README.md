@@ -235,6 +235,8 @@ Built to help individuals and teams **do more high-quality work with less fricti
 
 - [Freedom](https://freedom.to) – Block distracting websites/apps across devices with scheduled focus sessions.
 
+- [NoMo](https://nomoinc.co/) – iPhone app blocker for study or work, with a Pomodoro timer and one free weekly blocking schedule.
+
 - [Cold Turkey](https://getcoldturkey.com) – Powerful desktop blocker with strict rules for deep work and habit change.
 
 - [Forest](https://www.forestapp.cc) – Gamified focus sessions that discourage phone use while you work.
